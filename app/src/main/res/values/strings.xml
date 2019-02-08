@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoppingApps</string>
+    <string name="dummy_text">Dummy</string>
+    <string name="label_add_item_button">Add Item</string>
+</resources>

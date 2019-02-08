@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".AdditemActivity">
+
+    <Button
+        android:id="@+id/btnApple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="addApple"
+        android:text="Apple" />
+
+    <Button
+        android:id="@+id/btnCheese"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="addCheese"
+        android:text="Cheese" />
+
+    <Button
+
+        android:id="@+id/btnRice"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_weight="1"
+
+        android:onClick="addRice"
+
+        android:text="Rice" />
+
+
+
+    <Button
+
+        android:id="@+id/btnPotato"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_weight="1"
+
+        android:onClick="addPotato"
+
+        android:text="Potato" />
+
+
+
+    <Button
+
+        android:id="@+id/btnCorn"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_weight="1"
+
+        android:onClick="addCorn"
+
+        android:text="Corn" />
+
+
+
+    <Button
+
+        android:id="@+id/btnGrape"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_weight="1"
+
+        android:onClick="addGrape"
+
+        android:text="Grape" />
+
+
+
+    <Button
+
+        android:id="@+id/btnBanana"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_weight="1"
+
+        android:onClick="addBanana"
+
+        android:text="Banana" />
+
+
+
+    <Button
+
+        android:id="@+id/btnTomato"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="addTomato"
+        android:text="Tomato" />
+
+    <Button
+        android:id="@+id/btnCabbage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="addCabbage"
+        android:text="Cabbage" />
+
+    <Button
+        android:id="@+id/btnChili"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="addChili"
+        android:text="Chili" />
+
+</LinearLayout>
